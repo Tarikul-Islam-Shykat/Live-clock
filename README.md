@@ -1,1 +1,1 @@
-# Live-clock
+# Live-clock using Javascript, HTML, CSS 
